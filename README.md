@@ -1,4 +1,4 @@
-### <div align="center">I'm Hamza Swed, a full-stack web developer 👨‍💻 </div>  
+### <div align="center">I'm Hamza Swed, a Full-Stack (MERN) web developer 👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning Reactjs  
