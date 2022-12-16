@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Reactjs  
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Front-End and related technologies  
 
 - 📫 You can reach me hamzaswed66@gmail.com  
   
