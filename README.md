@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Reactjs  
 
-- ❓ Ask me about anything related to Front-End development.
+- ❓ Ask me about anything related to Front-End web development.
 
 - 📫 You can reach me hamzaswed66@gmail.com  
   
